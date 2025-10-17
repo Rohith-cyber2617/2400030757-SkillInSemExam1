@@ -1,10 +1,10 @@
 function greetUser(name) {
-  console.log("Welcome, " + name + "!");
+  console.log("Hello " + name + ", this is Alice’s version!");
 }
 
 function appStatus() {
-  console.log("Main branch: Application running smoothly.");
+  console.log("Feature1: UI changes added.");
 }
 
-greetUser("Developer");
+greetUser("Alice");
 appStatus();
