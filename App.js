@@ -1,10 +1,10 @@
 function greetUser(name) {
-  console.log("Welcome, " + name + "!");
+  console.log("Hi " + name + ", Bob improved the backend!");
 }
 
 function appStatus() {
-  console.log("Main branch: Application running smoothly.");
+  console.log("Feature2: Backend optimization completed.");
 }
 
-greetUser("Developer");
+greetUser("Bob");
 appStatus();
